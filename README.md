@@ -29,7 +29,7 @@
 
 | Project | Description |
 | [🎯 Dummy Sales Analysis](https://github.com/YourUsername/dummy-sales-analysis) | Exploratory data analysis and visual insights on synthetic sales data |
-| [🧠 Eye Disease Detection](https://github.com/YourUsername/eye-disease-detection) | Deep learning model using VGG to classify retinal diseases |
+| [🧠 cataract-detection](https://github.com/YourUsername/eye-disease-detection) | Deep learning model using VGG to classify retinal diseases |
 | [🔬 Skin Cancer Detection](https://github.com/YourUsername/skin-cancer-cnn) | CNN-based model to classify benign vs malignant skin lesions |
 
 > 📌 *More projects available in my repositories.*
