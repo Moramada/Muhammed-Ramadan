@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Machine Learning Engineer | 💻 Data Scientist | 🌍 Remote Freelancer<br>
-  📍 Based in Egypt | 📡 Open to remote roles (especially in the Saudi market)
+  📍 Based in Egypt | interested to grow up in Data science and AI
 </p>
 
 ---
