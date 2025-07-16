@@ -28,7 +28,7 @@
 ## 📁 Highlighted Projects
 
 | Project | Description |
-| [🎯 Dummy Sales Analysis](https://github.com/YourUsername/dummy-sales-analysis) | Exploratory data analysis and visual insights on synthetic sales data |
+| [🎯 Skin Cancer Detection ](https://github.com/Moramada/Skin-Cancer-Detection) | Exploratory data analysis and visual insights on synthetic sales data |
 | [🧠 cataract-detection](https://github.com/Moramada/cataract-detection) | Deep learning model using VGG to classify retinal diseases |
 | [🔬 Deep-Retina-Detect](https://github.com/Moramada/Deep-Retina-Detect) | Detecting diabetic retinopathy using retinal fundus images and deep CNNs (VGG16/VGG19).
 Built with TensorFlow and Keras. |
