@@ -1,22 +1,22 @@
-<h1 align="center">Hi there 👋, I'm Muhammed Ramadan</h1>
+<h1 align="center">Hi there , I'm Muhammed Ramadan</h1>
 
 <p align="center">
-  🚀 Machine Learning Engineer | 💻 Data Scientist | 🌍 Remote Freelancer<br>
-  📍 Based in Egypt | interested to grow up in Data science and AI
+   Machine Learning Engineer | Data Scientist | Remote Freelancer<br>
+   Based in Egypt | interested to grow up in Data science and AI
 </p>
 
 ---
 
- 🧠 About Me
+  About Me
 
-- 🔍 Passionate about solving real-world problems using machine learning and data analysis.
-- 👨‍🎓 BSc in Computer and Artificial Intelligence, Banha University.
-- 🧰 Skilled in Python, Scikit-learn, Pandas, NumPy, Power BI, and deep learning with TensorFlow/Keras.
-- 🛠️ Currently working on deploying ML models using FastAPI and building dashboards with Streamlit.
+-  Passionate about solving real-world problems using machine learning and data analysis.
+-  BSc in Computer and Artificial Intelligence, Banha University.
+-  Skilled in Python, Scikit-learn, Pandas, NumPy, Power BI, and deep learning with TensorFlow/Keras.
+-  Currently working on deploying ML models using FastAPI and building dashboards with Streamlit.
 
 ---
 
-## 📈 My Tech Stack
+##  My Tech Stack
 
 - Languages: Python, SQL  
 - ML Tools: Scikit-learn, TensorFlow, Keras  
@@ -25,7 +25,7 @@
 
 ---
 
-## 📁 Highlighted Projects
+## Highlighted Projects
 
 | Project | Description |
 | [🎯 Skin Cancer Detection ](https://github.com/Moramada/Skin-Cancer-Detection) | Classification of medical images of skin tumors using a CNN model to determine whether the tumor is benign or malignant |
@@ -33,7 +33,7 @@
 | [🔬 Deep-Retina-Detect](https://github.com/Moramada/Deep-Retina-Detect) | Detecting diabetic retinopathy using retinal fundus images and deep CNNs (VGG16/VGG19).
 Built with TensorFlow and Keras. |
 
-> 📌 *More projects available in my repositories.*
+>  *More projects available in my repositories.*
 
 ---
 
